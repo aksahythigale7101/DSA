@@ -24,7 +24,11 @@ namespace DSA
         }
 
 
-
+        public void Add()
+        {
+            int c = 10 + 20;
+            Console.WriteLine("This is additon program" + c);
+        }
 
 
 
