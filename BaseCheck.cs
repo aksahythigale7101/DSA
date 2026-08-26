@@ -66,11 +66,18 @@ namespace DSA
 
         }
         
-        public void Headcheck1()// revret
+        public void Headcheck1()// reset on github
         {
             Console.WriteLine("This is Hyndai car");
             Console.WriteLine("This is Honda car");
             Console.WriteLine("This is BMW car");
+        }
+
+
+        public void Headcheck2()// revret
+        {
+            Console.WriteLine("This is Bat car");
+           
         }
 
 
