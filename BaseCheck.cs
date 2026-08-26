@@ -18,6 +18,10 @@ namespace DSA
         {
             Console.WriteLine("This is akshay kailas thigale");
         }
+        public void Method()
+        {
+            Console.WriteLine("This is method calling function");
+        }
 
 
     }
