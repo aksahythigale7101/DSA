@@ -44,14 +44,14 @@ namespace DSA
 
 
 
-        private void CollageInfo()
+        private void CollageInfo()//stash method get and push
         {
             Console.WriteLine("Collage Name:");
             Console.WriteLine("Collage Phone:");
             Console.WriteLine("Collage Email:");
             Console.WriteLine("Collage Address:");
-            
-            
+
+
         }
         //one method in stash and use >git stash list< then show it
 
@@ -66,7 +66,7 @@ namespace DSA
             Console.WriteLine("This is aarav");
 
         }
-        
+
         public void Headcheck1()// reset on github
         {
             Console.WriteLine("This is Hyndai car");
@@ -76,6 +76,12 @@ namespace DSA
 
 
 
+
+
+        public void RevretFunctionS()
+        {
+            Console.WriteLine("I like apple");
+        }
 
     }
 }
