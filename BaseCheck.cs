@@ -42,9 +42,17 @@ namespace DSA
             Console.WriteLine($"This is multiplication program {c}");
         }
 
-       
-        
 
+
+        private void CollageInfo()
+        {
+            Console.WriteLine("Collage Name:");
+            Console.WriteLine("Collage Phone:");
+            Console.WriteLine("Collage Email:");
+            Console.WriteLine("Collage Address:");
+            
+            
+        }
         //one method in stash and use >git stash list< then show it
 
 
