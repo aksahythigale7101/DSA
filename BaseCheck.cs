@@ -9,7 +9,7 @@ namespace DSA
         {
             Console.WriteLine("BaseCheck Show method called.");
 
-            Console.WriteLine("this show method is from BaseCheck!!");
+            Console.WriteLine("this show method is from BaseCheck");
 
         }
 
@@ -22,6 +22,11 @@ namespace DSA
         {
             Console.WriteLine("This is method calling function");
         }
+
+
+
+
+
 
 
     }
