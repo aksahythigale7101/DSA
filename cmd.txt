@@ -1,4 +1,6 @@
-﻿This is command files
+﻿***** In this project on function in stash*****so check it --git stash list
+
+This is command files
 
 rebase
   -- git rebase main
@@ -21,6 +23,24 @@ revret
  --git add . 
  -- git commit -m "this file is revres"
  -- git push
+
+---------------------------------------------------------------
+reset -->
+  private void Domain() 
+   {
+       Console.WriteLine("This is c# language"); HEAD
+       Console.WriteLine("This is Java language");HEAD
+       Console.WriteLine("This is  python language");HEAD
+   }
+ **********all this commit not push on git hub***********
+  -- git reset --hard HEAD~1 ---use this commod get output
+  private void Domain() 
+   {
+       Console.WriteLine("This is c# language"); HEAD
+       Console.WriteLine("This is Java language");
+       python remove or rest
+   }
+
 
 
 ----------------------------------------------------------------
