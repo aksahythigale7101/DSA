@@ -38,7 +38,7 @@ reset -->
    {
        Console.WriteLine("This is c# language"); HEAD
        Console.WriteLine("This is Java language");
-       python remove or rest
+       python remove or rest this commond
    }
 
 
