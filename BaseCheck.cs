@@ -81,6 +81,7 @@ namespace DSA
         public void RevretFunctionS()
         {
             Console.WriteLine("I like apple");
+            Console.WriteLine("I like Mango");
         }
 
     }
