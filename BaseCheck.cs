@@ -36,6 +36,12 @@ namespace DSA
             Console.WriteLine("This is substraction program " + c);
         }
 
+        public void Multiplication()
+        {
+            int c = 10 * 20;
+            Console.WriteLine($"This is multiplication program {c}");
+        }
+
 
     }
 }
