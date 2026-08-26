@@ -40,8 +40,10 @@ reset -->
        Console.WriteLine("This is Java language");
        python remove or rest this commond
    }
-
-
+ >suppose you want Console.WriteLine("This is  python language");this line agin like redo
+then used 
+-- git reflog --example like 1)def5678 HEAD@{1}: commit: Add EmployeeInformation 2)789abcd HEAD@{2}: commit: Add Student
+-- git reset --hard 789abcd it work like redo then agin back to the code
 
 ----------------------------------------------------------------
 revert vs reset
