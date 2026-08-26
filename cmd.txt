@@ -1,1 +1,45 @@
 ﻿This is command files
+
+rebase
+  -- git rebase main
+
+fetch
+  -- git fetch   ----"Remote वर काय changes झाले आहेत?"
+  -- git fetch origin
+  -- git log main..origin/main --oneline --यामुळे remote main वर असलेले पण तुझ्या local main मध्ये नसलेले commits पाहता येतात.
+  -- git diff origin/main -- temp.txt ---file name put get the diffrnace rmote and local file
+
+delete
+ -- git rm - r temp.text
+ --git add . 
+ -- git commit -m "file delete"
+ -- git push  
+
+revret 
+ -- git log --oneline  get all commits examole 1)d123456 Delete Employee.cs 2)c234567 temp.txt
+ -- git revert d123456 -- this commit id so this commit id they can done what are you want
+ --git add . 
+ -- git commit -m "this file is revres"
+ -- git push
+
+
+----------------------------------------------------------------
+revert vs reset
+
+हे खूप important आहे:
+
+git revert
+    ↓
+नवीन commit तयार करतो
+    ↓
+Safe for shared/GitHub branch ✅
+git reset
+    ↓
+Branch history मागे नेतो
+    ↓
+Shared GitHub branch साठी काळजीपूर्वक वापरावा ⚠️
+
+
+--GitHub वर already pushed commit undo करायचा असेल → git revert
+--Local, अजून push न केलेला commit मागे घ्यायचा असेल → git reset उपयोगी ठरू शकतो.
+-------------------------------------------------------------------------
