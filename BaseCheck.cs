@@ -57,7 +57,7 @@ namespace DSA
 
 
 
-        public void HeadCheck()
+        public void HeadCheck()//reset
         {
             Console.WriteLine("This is akshay");
             Console.WriteLine("This is aditya");
@@ -66,6 +66,11 @@ namespace DSA
 
         }
         
+        public void Headcheck1()// revret
+        {
+            Console.WriteLine("This is Hyndai car");
+
+        }
 
 
     }
