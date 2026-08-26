@@ -30,7 +30,11 @@ namespace DSA
             Console.WriteLine("This is additon program" + c);
         }
 
-
+        public void Subtraction()
+        {
+            int c = 20 - 10;
+            Console.WriteLine("This is substraction program " + c);
+        }
 
 
     }
