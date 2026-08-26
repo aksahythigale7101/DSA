@@ -42,15 +42,8 @@ namespace DSA
             Console.WriteLine($"This is multiplication program {c}");
         }
 
-        private void StudenInfo()
-        {
-            Console.WriteLine("Studen Name:");
-            Console.WriteLine("Studen Age:");
-            Console.WriteLine("Studen Phone:");
-            Console.WriteLine("Studen Email:");
-            Console.WriteLine("Studen Blodgroup:");
-        }
-
+       
+        
 
         //one method in stash and use >git stash list< then show it
 
