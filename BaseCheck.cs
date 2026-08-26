@@ -14,6 +14,11 @@ namespace DSA
         }
 
 
+        public void Display()
+        {
+            Console.WriteLine("This is akshay kailas thigale");
+        }
+
 
     }
 }
