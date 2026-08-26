@@ -77,9 +77,12 @@ namespace DSA
         public void Headcheck2()// revret
         {
             Console.WriteLine("This is Bat car");
+
             Console.WriteLine("This is mma fighter");
             Console.WriteLine("This is fotball car");
           
+
+
         }
 
 
