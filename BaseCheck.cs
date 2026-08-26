@@ -62,6 +62,7 @@ namespace DSA
         {
             Console.WriteLine("This is c# language");
             Console.WriteLine("This is jave language");
+            Console.WriteLine("This is python language");
         }
 
 
