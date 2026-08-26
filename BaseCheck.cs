@@ -57,7 +57,11 @@ namespace DSA
 
 
 
+        public void HeadCheck()
+        {
+            Console.WriteLine("This is akshay");
 
+        }
         
 
 
