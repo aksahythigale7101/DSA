@@ -1,4 +1,6 @@
-﻿This is command files
+﻿***** In this project on function in stash*****so check it --git stash list
+
+This is command files
 
 rebase
   -- git rebase main
