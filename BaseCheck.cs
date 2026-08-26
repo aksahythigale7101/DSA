@@ -53,5 +53,17 @@ namespace DSA
 
 
         //one method in stash and use >git stash list< then show it
+
+
+
+
+
+        private void Domain()
+        {
+            Console.WriteLine("This is c# language");
+        }
+
+
+
     }
 }
