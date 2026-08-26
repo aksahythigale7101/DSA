@@ -82,6 +82,7 @@ namespace DSA
         {
             Console.WriteLine("I like apple");
             Console.WriteLine("I like Mango");
+            Console.WriteLine("I like banana");
         }
 
     }
