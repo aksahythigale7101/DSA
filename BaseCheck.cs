@@ -60,7 +60,8 @@ namespace DSA
         public void HeadCheck()
         {
             Console.WriteLine("This is akshay");
-
+            Console.WriteLine("This is aditya");
+            
         }
         
 
