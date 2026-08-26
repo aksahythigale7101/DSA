@@ -18,6 +18,13 @@ class Program
         //BINERYSERCH();
     }
 
+    public void calucaltor()
+    {
+        Console.WriteLine("This is my caluclator functions !");
+    }
+
+
+
     private static void PatternProgram()
     {
         Pattern.SAQUAREPATTERN();
